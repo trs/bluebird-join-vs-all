@@ -1,0 +1,17 @@
+{
+  "name": "promise-join-vs-all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Tyler Stewart",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  },
+  "engines": {
+    "node": ">=9"
+  }
+}
